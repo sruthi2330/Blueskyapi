@@ -1,0 +1,9 @@
+{
+  "client_id": "your-client-id",
+  "client_name": "Your Application Name",
+  "application_type": "web",
+  "redirect_uris": ["https://your-redirect-url.com/callback"],
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none"
+}
